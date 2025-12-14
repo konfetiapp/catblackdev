@@ -1,48 +1,42 @@
 {
-	"name": "Kelly Bowlin",
-	"profession": "Web Designer",
+	"name": "CatBlackDev",
+	"profession": "Web Developer",
 	"links": [
 		{
-			"url": "#",
+			"url": "https://github.com/catblackdev",
 			"icon": "link",
-			"title": "Personal Portfolio",
+			"title": "My Projects",
 			"description": "All my latest design projects"
 		},
 		{
 			"url": "#",
-			"icon": "youtube-fill",
-			"title": "Youtube Channel",
-			"description": "All my latest design projects"
-		},
-		{
-			"url": "#",
-			"icon": "shopping-bag-line",
-			"title": "Template Store",
-			"description": "Discover templates that suit you"
-		},
-		{
-			"url": "#",
 			"icon": "link",
-			"title": "Design Podcast",
-			"description": "Every Friday a new episode"
+			"title": "Use KonfetiApp",
+			"description": "Free note-taking web app"
 		},
 		{
-			"url": "#",
+			"url": "https://memecommunity.netlify.app",
+			"icon": "link",
+			"title": "Meme Community",
+			"description": "Collection of free memes"
+		},
+		{
+			"url": "https://yemek-tarifleri.netlify.app",
+			"icon": "link",
+			"title": "Yemek Tarifleri",
+			"description": "Türkçe yemek tarifleri sitesi"
+		},
+		{
+			"url": "https://x.com/catblackdev",
+			"icon": "link",
+			"title": "Follow on X",
+			"description": "All my latest thoughts"
+		},
+		{
+			"url": "https://instagram.com/mrt0gl",
 			"icon": "instagram-line",
 			"title": "Instagram Profile",
 			"description": "Designer lifestyle and more"
-		},
-		{
-			"url": "#",
-			"icon": "dribbble-line",
-			"title": "Dribbble Shots",
-			"description": "Know more about my work"
-		},
-		{
-			"url": "#",
-			"icon": "link",
-			"title": "Free Resources",
-			"description": "Collection of free resources"
 		}
 	]
 }
